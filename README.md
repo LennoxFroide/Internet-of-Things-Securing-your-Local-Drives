@@ -1,5 +1,5 @@
 # Internet-of-Things-Securing-your-Local-Drives
-Ever felt like you need to take back some control on how much of the data stored in your local devices is accessible big corporations or device manufacturers? Well, this project aims to help with this issue by showing anyone how to create a new VHD (virtual hard disk) and secure it using encryption.
+Ever felt like you need to take back some control on how much of the data stored in your local devices is accessible to big corporations or device manufacturers? Well, this project aims to help with this issue by showing anyone how to create a new VHD (virtual hard disk) and secure it using encryption.
 
 <h1>Step 1:CREATING A VHD</h1>
 <ul>
@@ -34,5 +34,5 @@ to crack passwords that we form when relying on our own memory and thinking patt
 <li>This Python code, which is available in this repository, takes in an input from the user which is the desired lenth of their encyption key and creates a strong password of any length that's a combination of digits,letters and special characters. This key is randomly generated which makes it harder to crack for any cyber attacker who is using pre-existing user information from the internet.</li>
 </ul>
 <br>
-We're all set now, we have a new drive that's encrypted, with a randomly generated encypted key that's always going to be required to access the drive contents once the drive is locked. Take note that your encyption key must not be photographed or in the line of sight of any cameras since photograph data is easily accessible to online attacker. If your password is ever photographed or viewed by anyone else,
+We're all set now, we have a new drive that's encrypted, with a randomly generated encyption key that's always going to be required to access the drive contents once the drive is locked. Take note that your encyption key must not be photographed or in the line of sight of any cameras since photograph data is easily accessible to online attackers. If your password is ever photographed or viewed by anyone else,
 you need to generate a new key with the <strong>Python encryption key generator</strong> immediately.
